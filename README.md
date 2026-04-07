@@ -52,6 +52,6 @@
 ### 2nd year - 1st semester
 | Course | Project | Graded |
 | :--- | :--- | :--- |
-| Object-Oriented Programming | **[Garden Simulator (C++)](link-para-o-teu-repo-aqui)** | 18 out of 20 |
+| Object-Oriented Programming | **[Garden Simulator (C++)](link-para-o-teu-repo-aqui)** | 19 out of 20 |
 | Operating Systems | Projects in C/Linux | 17 out of 20 |
 | Introduction to Artificial Intelligence | Projects in C | 17 out of 20 |
