@@ -53,5 +53,5 @@
 | Course | Project | Graded |
 | :--- | :--- | :--- |
 | Object-Oriented Programming | **[Garden Simulator (C++)](https://github.com/Vera2024140140/Trabalho_POO)** | 19 out of 20 |
-| Operating Systems | Projects in C/Linux | 17 out of 20 |
+| Operating Systems | **[Taxi Management Platform (C/Linux)](https://github.com/Vera2024140140/TPSO)** | 17 out of 20 |
 | Introduction to Artificial Intelligence | Projects in C | 17 out of 20 |
